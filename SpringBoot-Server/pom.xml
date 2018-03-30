@@ -3,7 +3,7 @@
   <groupId>com.digital</groupId>
   <artifactId>SpringBoot-Server</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <packaging>war</packaging>
+  <packaging>jar</packaging>
   <name/>
    <!-- 继承父包 -->
     <parent>
